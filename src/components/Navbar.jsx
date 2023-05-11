@@ -43,7 +43,6 @@ const Centre = styled.div`
 `;
 const Logo = styled.div`
     font-weight:bold;
-    font-size:30px;
 `;
 
 const Right = styled.div`
