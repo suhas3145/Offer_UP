@@ -16,6 +16,8 @@ import Categories from '../components/Categories'
 
 
 
+
+
 const Home = () => {
   return (
     <div>
@@ -23,6 +25,7 @@ const Home = () => {
       <Navbar/>
       <Slider/>
       <Categories/>
+
     </div>
   )
 }
