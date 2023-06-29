@@ -10,8 +10,10 @@ import Home from "./pages/Home";
 const App = () =>{
     return <>
     <Login/>
-    <Cart/>
+    <Register/>
     <Home/>
+    <Cart/>
+    <Product/>
     </>;
 };
 
